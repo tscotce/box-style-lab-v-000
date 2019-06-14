@@ -61,4 +61,4 @@ img {border-style: solid;
 
 .indifferent {box-shadow:  -1px 1px #d8d809, -2px 2px #d8d809, -3px 3px #d8d809, -4px 4px #d8d809, -5px 5px #d8d809;}
 .dubious {box-shadow:  -1px 1px #de1e1e, -2px 2px #de1e1e, -3px 3px #de1e1e, -4px 4px #de1e1e, -5px 5px #de1e1e;}
-body {background-image: url("./images/white-wood.jpg");}
+body {background-image: url("../images/white-wood.jpg");}
