@@ -55,4 +55,6 @@ h4 {
   width: 303%;
 }
 
-img {border-style: solid;}
+img {border-style: solid
+  border-width: 1px;
+}
