@@ -20,7 +20,7 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-  background: linear-gradient (to right, #FFF, #000);
+  
 }
 
 .amiable {
@@ -66,4 +66,5 @@ img {border-style: solid;
 
 body {background-image: url("../images/white-wood.jpg");
   background-size: cover;
+  background: linear-gradient (to right, #FFF, #000);
 }
